@@ -1,0 +1,26 @@
+local palette = {
+    color0 =  '#17181c',
+    color1 =  '#1e1f24',
+    color2 =  '#fa3867',
+    color3 =  '#f3872f',
+    color4 =  '#febd16',
+    color5 =  '#3fd43b',
+    color6 =  '#47e7ce',
+    color7 =  '#53ade1',
+    color8 =  '#fa3867',
+    color9 =  '#f3872f',
+    color10 = '#febd16',
+    color11 = '#3fd43b',
+    color12 = '#47e7ce',
+    color13 = '#53ade1',
+    color14 = '#ad60ff',
+    color15 = '#fc3f2c',
+    comment = '#333438',
+    contrast = '#fa3867',
+    background = '#17181c',
+    foreground = '#e4e5e7',
+    cursorline = '#27282d',
+    none = 'NONE',
+}
+
+return palette
